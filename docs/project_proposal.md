@@ -37,7 +37,7 @@ This project is expected to deliver:
 
 | Milestones | Tasks | Deliverables/ Reports | Relevant Stakeholder  | Estimated Time |
 | :---: | ----- | ----- | ----- | ----- |
-| 1 | Data and metadata collection | Data files ready for EDA | Chidi Ga  (Senior Data Analyst) | 2-3 weeks |
+| 1 | Data collection and preliminary exploration | -Preliminary data summary<br>-Data files ready for EDA | Chidi Ga  (Senior Data Analyst) | 2-3 weeks |
 | 2a | Data exploration and cleaning | EDA report | Chidi Ga  (Senior Data Analyst) | 1 week |
 | 2b | Visualization building | Tableau dashboard/visualizations  | Sylvester Esperanza (Senior Project Manager)  |  |
 | 3a | Compute descriptive statistics | Analysis of testing results between two important variables | May Santner  (Data Analysis Manager) | 1 week |
