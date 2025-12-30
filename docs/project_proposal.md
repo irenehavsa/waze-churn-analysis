@@ -42,7 +42,7 @@ This project is expected to deliver:
 | 2b | Visualization building | Tableau dashboard/visualizations  | Sylvester Esperanza (Senior Project Manager)  |  |
 | 3a | Compute descriptive statistics | Analysis of testing results between two important variables | May Santner  (Data Analysis Manager) | 1 week |
 | 3b | Conduct hypothesis testing |  |  |  |
-| 4 | Build a machine learning model | Final machine learning model | Harriet Hadzic  (Director of Data Analysis) | 1-2 weeks |
-| 5 | Evaluate the model |  |  |  |
-| 6 | Communicate final insights with stakeholders | Report to all stakeholders | Harriet Hadzic  (Director of Data Analysis) | 1-2 days |
+| 4a | Build a machine learning model | Final machine learning model | Harriet Hadzic  (Director of Data Analysis) | 1-2 weeks |
+| 4b | Evaluate the model |  |  |  |
+| 5 | Communicate final insights with stakeholders | Report to all stakeholders | Harriet Hadzic  (Director of Data Analysis) | 1-2 days |
 
